@@ -1,0 +1,11 @@
+div {
+  font-size: 18px;
+  padding: 10px;
+}
+button {
+  margin: 8px;
+  background-color: darkgray;
+  color: white;
+  font-size: 12px;
+  border-radius: 5px;
+}
